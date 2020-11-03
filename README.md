@@ -2,7 +2,8 @@
 
 ![screenshot](./screenshot.png)
 
-*Check the feature branch for up to date commits*
+live demo....
+https://js.do/code/js_alertcounter
 
 ## Objectives
 
